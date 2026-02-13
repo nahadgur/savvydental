@@ -11,12 +11,12 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 
 const SERVICE_IMAGES: Record<string, string> = {
-  crossbite: 'https://images.unsplash.com/photo-1581939511501-4ec557ff0957?q=80&w=1170&auto=format&fit=crop',
-  adults: 'https://images.unsplash.com/photo-1489278353717-f64c6ee8a4d2?q=80&w=1170&auto=format&fit=crop',
-  gaps: 'https://images.pexels.com/photos/6502308/pexels-photo-6502308.jpeg',
-  overbite: 'https://images.pexels.com/photos/15073697/pexels-photo-15073697.jpeg',
-  crowded: 'https://images.unsplash.com/photo-1660732205543-dfef1a8761f7?q=80&w=1170&auto=format&fit=crop',
-  underbite: 'https://images.pexels.com/photos/3762402/pexels-photo-3762402.jpeg'
+  'single-tooth': 'https://images.unsplash.com/photo-1593022356769-11f762e25ed9?q=80&w=1170&auto=format&fit=crop',
+  'multiple-teeth': 'https://images.pexels.com/photos/6502343/pexels-photo-6502343.jpeg',
+  'full-arch': 'https://images.pexels.com/photos/4687905/pexels-photo-4687905.jpeg',
+  'bone-grafting': 'https://images.pexels.com/photos/6629364/pexels-photo-6629364.jpeg',
+  'immediate-implants': 'https://images.pexels.com/photos/5355826/pexels-photo-5355826.jpeg',
+  'implant-dentures': 'https://images.pexels.com/photos/3779699/pexels-photo-3779699.jpeg'
 };
 
 export default function ServiceCityPage({ params }: { params: { service: string; city: string } }) {
@@ -32,7 +32,7 @@ export default function ServiceCityPage({ params }: { params: { service: string;
 
   if (!service || !cityName) notFound();
 
-  const heroImage = SERVICE_IMAGES[params.service] || SERVICE_IMAGES.adults;
+  const heroImage = SERVICE_IMAGES[params.service] || SERVICE_IMAGES['single-tooth'];
 
   React.useEffect(() => {
     const handleScroll = () => {
