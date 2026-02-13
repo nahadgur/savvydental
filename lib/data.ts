@@ -1,13 +1,13 @@
 export const BLOG_POSTS = [
   {
     id: 1,
-    title: "Dental Implants Cost 2024: A Complete UK Price Guide",
-    excerpt: "Understand the investment required for a perfect smile. We break down the cost factors between Platinum and elite specialist providers.",
+    title: "Dental Implant Cost 2024: A Complete UK Price Guide",
+    excerpt: "Understand the investment required for permanent tooth replacement. We break down cost factors and what to expect from specialist providers.",
     content: [
-      "Starting your Dental Implants journey often begins with one primary question: 'How much will it cost?' In 2024, the landscape for dental implant pricing in the UK has become more transparent, yet more varied based on provider expertise.",
-      "Typically, prices range from £1,500 for 'Lite' cases up to £5,500 for complex 'Full' treatments. The primary factors influencing this include the complexity of your alignment, the duration of the treatment, and most importantly, the provider's tier.",
-      "Our network focuses on Platinum and Diamond providers. While these clinics may have slightly higher starting points, the value lies in their clinical volume—handling thousands of cases allows them to achieve results where others might fail.",
-      "Included in most of our partner quotes are the initial 3D scans, all implant sets, and often, the first set of retainers to ensure your new smile stays permanent."
+      "Starting your dental implant journey often begins with one primary question: 'How much will it cost?' In 2024, the landscape for dental implant pricing in the UK has become more transparent, yet varies based on provider expertise and case complexity.",
+      "Typically, prices range from £1,800 for a single implant up to £25,000+ for full arch All-on-4 treatments. The primary factors influencing this include the number of teeth being replaced, bone grafting requirements, and most importantly, the specialist's experience and training.",
+      "Our network focuses on verified implant specialists. While these clinics may have higher starting points, the value lies in their surgical expertise—handling thousands of cases allows them to achieve predictable, long-lasting results.",
+      "Included in most specialist quotes are the initial CBCT 3D scan, surgical placement, abutment, and custom crown. Many also offer flexible payment plans to make treatment accessible."
     ],
     date: "March 15, 2024",
     category: "Pricing",
@@ -17,13 +17,13 @@ export const BLOG_POSTS = [
   },
   {
     id: 2,
-    title: "Dental Implants vs Traditional Braces: The Aesthetic Verdict",
-    excerpt: "Comparing aesthetics, comfort, and clinical effectiveness. Discover why 90% of adults now choose dental implants over metal tracks.",
+    title: "Dental Implants vs Dentures: The Permanent Solution",
+    excerpt: "Comparing stability, comfort, and long-term value. Discover why dental implants are the gold standard for tooth replacement.",
     content: [
-      "For decades, metal braces were the only path to a straighter smile. Today, dental implant technology has not only caught up but surpassed traditional methods for the majority of adult orthodontic cases.",
-      "The most obvious advantage is discretion. Dental Implants implants are virtually invisible, allowing you to maintain your professional appearance without the 'metal mouth' stigma.",
-      "But it's not just about looks. Hygiene is significantly easier with Dental Implants. Because you remove the implants to eat and brush, the risk of decalcification (white spots on teeth) often associated with fixed braces is virtually eliminated.",
-      "In terms of comfort, the titanium post material used in Dental Implants provides a constant, gentle force that is far more comfortable than the periodic 'tightening' of wires."
+      "For decades, dentures were the primary solution for missing teeth. Today, dental implant technology has revolutionized tooth replacement with a permanent, natural-feeling alternative that preserves bone health.",
+      "The most significant advantage is stability. Dental implants are surgically placed in your jawbone and fuse through osseointegration, becoming as stable as natural teeth. No adhesives, no slipping, no embarrassing moments.",
+      "Beyond stability, implants preserve jawbone density. Dentures sit on top of the gums and don't stimulate bone growth, leading to progressive bone loss and a 'sunken' facial appearance over time.",
+      "In terms of function, implants restore 80-90% of natural bite force, allowing you to eat anything. Most denture wearers must avoid hard, sticky, or crunchy foods indefinitely."
     ],
     date: "March 10, 2024",
     category: "Patient Guide",
@@ -33,13 +33,13 @@ export const BLOG_POSTS = [
   },
   {
     id: 3,
-    title: "The Science of 3D treatment planning: Visualising Your Results",
-    excerpt: "Explore the 3D software that allows you to see your final smile before you even start treatment. The power of digital orthodontics.",
+    title: "The Science of 3D Planning: Visualizing Your Implant Placement",
+    excerpt: "Explore the advanced CBCT imaging and surgical guides that ensure precise implant placement for optimal long-term success.",
     content: [
-      "Imagine seeing your final smile before you even wear your first implant. This isn't science fiction—it's 3D treatment planning, the sophisticated 3D modeling software that powers Dental Implants.",
-      "During your initial consultation with our Platinum partners, an CBCT scan element scanner creates a precise digital map of your mouth. No messy impressions required.",
-      "This data is then used to calculate the exact path each tooth must take. You can literally watch a video of your teeth migrating into their perfect positions over the course of your projected treatment timeline.",
-      "This level of predictability is what sets our elite providers apart. It allows for adjustments at the planning stage, ensuring the final result is exactly what you expected."
+      "Modern dental implant surgery relies on sophisticated 3D imaging technology that eliminates guesswork and maximizes precision. CBCT (Cone Beam Computed Tomography) scans create a complete 3D map of your jawbone, sinuses, and nerve pathways.",
+      "During your initial consultation, our specialists capture detailed scans that reveal bone density, available space, and potential anatomical challenges. This data is used to plan every aspect of your surgery digitally.",
+      "Many specialists now use surgical guides—custom 3D-printed templates that fit over your gums and direct the implant to the exact angle and depth planned digitally. This level of precision was impossible with traditional freehand placement.",
+      "This technology-driven approach results in more predictable outcomes, faster healing, and reduced risk of complications. You can even see a digital preview of your final result before surgery begins."
     ],
     date: "March 02, 2024",
     category: "Technology",
@@ -49,13 +49,13 @@ export const BLOG_POSTS = [
   },
   {
     id: 4,
-    title: "How to Clean Dental Implants Implants: Expert Maintenance Tips",
-    excerpt: "Maintain crystal-dental implants and fresh breath with these daily cleaning protocols recommended by leading implant specialists.",
+    title: "Caring for Your Dental Implants: Maintenance Tips",
+    excerpt: "Proper care ensures your implants last decades. Expert-recommended cleaning protocols and habits to protect your investment.",
     content: [
-      "Proper maintenance of your Dental Implants implants is crucial not just for hygiene, but for the success of your entire treatment. Clean implants mean better aesthetics and healthier teeth throughout your journey.",
-      "The golden rule: never use hot water on your implants. Heat can warp the precise shape that's been calculated for your teeth movement. Always use lukewarm or cold water for rinsing and cleaning.",
-      "We recommend a twice-daily cleaning routine. Each morning and evening, gently brush your implants with a soft toothbrush and clear, antibacterial soap. Avoid toothpaste as the abrasive particles can create tiny scratches that harbor bacteria.",
-      "For deep cleaning once a week, soak your implants in a specialized cleaning solution or a mixture of water and white vinegar for 15-20 minutes. This removes buildup and keeps them crystal clear."
+      "Dental implants have an excellent long-term success rate, but proper maintenance is crucial. With the right care routine, your implants can last 25+ years or even a lifetime.",
+      "The golden rule: treat implants like natural teeth. Brush twice daily with a soft-bristled brush, focusing on the gum line where the implant meets the tissue. This area is prone to bacteria buildup if neglected.",
+      "Flossing remains essential. Use implant-specific floss or a water flosser to clean between implants and around abutments. Unlike natural teeth, implants don't get cavities, but the surrounding tissue can develop peri-implantitis (gum disease around implants).",
+      "Schedule professional cleanings every 6 months. Your specialist will check bone levels via X-ray and deep-clean around the implants. Early detection of any issues dramatically improves treatment outcomes."
     ],
     date: "February 25, 2024",
     category: "Patient Guide",
@@ -65,13 +65,13 @@ export const BLOG_POSTS = [
   },
   {
     id: 5,
-    title: "Orthodontic Relapse: Why Dental Implants is the Solution",
-    excerpt: "Did your teeth move after childhood braces? Learn how Dental Implants 'Lite' and 'Express' can quickly restore your alignment.",
+    title: "Failed Bridge or Crown? Why Implants Are the Long-Term Solution",
+    excerpt: "Traditional bridges eventually fail. Learn how dental implants provide a permanent solution without damaging adjacent healthy teeth.",
     content: [
-      "It's one of the most common frustrations we hear: 'I had braces as a teenager, why are my teeth crooked again?' Orthodontic relapse is surprisingly common, affecting up to 70% of people who don't wear their retainers consistently.",
-      "The good news? Dental Implants Lite and Express packages are specifically designed for these minor corrections. These shorter treatment plans typically range from 3-7 months, making them perfect for adults dealing with mild relapse.",
-      "Unlike going through a full course of traditional braces again, Dental Implants allows you to correct the shift discreetly. Most colleagues and friends won't even notice you're undergoing treatment.",
-      "Our implant specialists specialize in these 'refinement' cases. They understand the nuances of adult teeth movement and can create a treatment plan that respects your lifestyle while achieving the results you want."
+      "If you've experienced a failed dental bridge or crown, you're not alone. Traditional tooth-supported bridges have an average lifespan of 10-15 years, and when they fail, the supporting teeth are often compromised.",
+      "The fundamental problem with bridges is that they require grinding down healthy adjacent teeth to serve as anchors. Over time, these teeth can decay, fracture, or develop root canal issues, requiring even more extensive treatment.",
+      "Dental implants solve this by replacing only the missing tooth with an independent titanium post and crown. Your healthy teeth remain untouched, preserving your natural dentition for life.",
+      "For patients with multiple missing teeth, implant-supported bridges offer superior stability compared to traditional bridges. The implants bear the chewing forces directly, rather than stressing adjacent teeth."
     ],
     date: "February 18, 2024",
     category: "Specialist Info",
@@ -81,13 +81,13 @@ export const BLOG_POSTS = [
   },
   {
     id: 6,
-    title: "Eating with Dental Implants: The Do's and Don'ts",
-    excerpt: "One of the best perks of dental implants is zero dietary restrictions. Here is how to manage snacks and meals effectively.",
+    title: "Eating with Dental Implants: Your Complete Guide",
+    excerpt: "What to expect during healing and long-term. Dietary guidelines from initial placement through complete osseointegration.",
     content: [
-      "Unlike traditional braces with their long list of forbidden foods, Dental Implants offers complete dietary freedom. Because you remove your implants to eat, there are no restrictions on what you can enjoy.",
-      "However, there are important protocols to follow. Always remove your implants before eating or drinking anything other than water. Even clear beverages like tea or coffee can stain your implants over time.",
-      "After eating, brush your teeth before reinserting your implants. If you're in a situation where brushing isn't possible, at minimum rinse your mouth thoroughly with water. This prevents food particles from being trapped against your teeth.",
-      "The 22-hour rule is crucial: wear your implants for at least 22 hours per day. This means you have roughly 2 hours total for all meals and snacks. Planning your eating schedule becomes part of the routine, but most patients adapt within the first week."
+      "One of the most common questions patients ask is: 'What can I eat with dental implants?' The answer depends on where you are in the healing timeline.",
+      "Immediately after surgery (first 2-3 days), stick to soft, cool foods like yogurt, smoothies, mashed potatoes, and soups. Avoid hot foods, hard/crunchy items, and don't use straws—the suction can disturb the surgical site.",
+      "During osseointegration (weeks 2-12), you can gradually reintroduce more solid foods, but avoid excessive force on the implant site. Chew on the opposite side when possible and avoid extremely hard foods like ice, hard candy, or tough meats.",
+      "After full integration (3-6 months), your implant functions exactly like a natural tooth. Eat anything you want—steak, apples, corn on the cob—with complete confidence. The bite force is comparable to your original teeth."
     ],
     date: "February 10, 2024",
     category: "Lifestyle",
@@ -148,35 +148,23 @@ export const LOCATIONS: Record<string, string[]> = {
     // Large Towns
     "Paisley", "East Kilbride", "Livingston", "Hamilton", "Cumbernauld", "Kirkcaldy",
     "Dunfermline", "Ayr", "Perth", "Kilmarnock", "Inverness", "Greenock", "Coatbridge",
+    "Glenrothes", "Motherwell", "Stirling", "Wishaw", "Airdrie", "Falkirk", "Dumfries",
     
-    // Medium Towns
-    "Glenrothes", "Airdrie", "Stirling", "Falkirk", "Irvine", "Dumfries", "Motherwell",
-    "Rutherglen", "Wishaw", "Clydebank", "Bearsden", "Cambuslang", "Newton Mearns",
-    "Bishopbriggs", "Musselburgh", "Arbroath", "Elgin", "Bellshill", "Dumbarton",
-    
-    // Smaller Towns
-    "Renfrew", "Bathgate", "Grangemouth", "Kirkintilloch", "Forfar", "Stenhousemuir",
-    "Alloa", "Blantyre", "Bonnyrigg", "Broxburn", "Buckhaven", "Carnoustie",
-    "Chapelhall", "Cowdenbeath", "Denny", "Erskine", "Galashiels", "Giffnock",
-    "Gourock", "Hawick", "Johnstone", "Kelso", "Larkhall", "Lenzie", "Lerwick",
-    "Linlithgow", "Lossiemouth", "Montrose", "Nairn", "Penicuik", "Peterhead",
-    "Port Glasgow", "Prestwick", "Rosyth", "St Andrews", "Stepps", "Stonehaven",
-    "Stranraer", "Troon", "Viewpark", "Whitburn", "Wick"
+    // Medium & Smaller Towns
+    "Rutherglen", "Clydebank", "Bearsden", "Cambuslang", "Newton Mearns", "Bishopbriggs",
+    "Musselburgh", "Arbroath", "Elgin", "Renfrew", "Alloa", "Bellshill", "Dumbarton",
+    "Grangemouth", "Bathgate", "Kirkintilloch", "Larkhall", "Barrhead", "Irvine",
+    "Forfar", "Stranraer", "Montrose", "Kelso", "Fort William", "Galashiels", "Hawick"
   ],
   
   "Wales": [
     // Major Cities & Large Towns
-    "Cardiff", "Swansea", "Newport", "Wrexham", "Barry", "Cwmbran", "Pontypridd",
-    "Port Talbot", "Llanelli", "Neath", "Bridgend", "Caerphilly", "Merthyr Tydfil",
+    "Cardiff", "Swansea", "Newport", "Wrexham", "Barry", "Cwmbran", "Bridgend",
+    "Merthyr Tydfil", "Caerphilly", "Rhondda", "Port Talbot", "Llanelli", "Pontypridd",
+    "Aberdare", "Colwyn Bay", "Aberystwyth", "Bangor",
     
-    // Medium Towns
-    "Rhondda", "Aberdare", "Penarth", "Pontypool", "Colwyn Bay", "Ebbw Vale",
-    "Maesteg", "Bargoed", "Bangor", "Caernarfon", "Aberystwyth", "Carmarthen",
-    "Haverfordwest", "Newtown", "Pembroke", "Porthcawl", "Prestatyn", "Rhyl",
-    
-    // Smaller Towns
-    "Abertillery", "Abergavenny", "Ammanford", "Blackwood", "Blaina", "Brynmawr",
-    "Buckley", "Chepstow", "Connah's Quay", "Flint", "Gelligaer", "Gorseinon",
+    // Medium & Smaller Towns
+    "Carmarthen", "Ebbw Vale", "Maesteg", "Penarth", "Flint", "Conwy", "Prestatyn",
     "Holyhead", "Llandudno", "Llantrisant", "Milford Haven", "Mold", "Mountain Ash",
     "Neath", "Nelson", "Pembroke Dock", "Penmaenmawr", "Porthmadog", "Risca",
     "Shotton", "Tonypandy", "Tredegar", "Ystrad Mynach"
@@ -198,34 +186,6 @@ export const LOCATIONS: Record<string, string[]> = {
 };
 
 export const SERVICES = [
-  { id: 'crowded', title: 'Dental Implants for Crowded Teeth', desc: 'Effectively straighten teeth that overlap or lack space. Crowded teeth can lead to plaque buildup and gum disease.', color: 'sky' },
-  { id: 'gaps', title: 'Dental Implants for Gaps', desc: 'Close noticeable spaces between your teeth quickly. Gaps can bring your smile together seamlessly.', color: 'indigo' },
-  { id: 'overbite', title: 'Dental Implants for Overbite', desc: 'Correct deep bites where upper teeth overlap lower teeth significantly. Modern abutments handle complex movements.', color: 'emerald' },
-  { id: 'underbite', title: 'Dental Implants for Underbite', desc: 'Address underbites to enhance facial profile and prevent wear. Dental Implants is a gentle alternative to corrective surgery.', color: 'amber' },
-  { id: 'crossbite', title: 'Dental Implants for Crossbite', desc: 'Fix crossbites to prevent jaw pain and tooth chipping. Clear implants widen the arch for a balanced bite.', color: 'rose' },
-  { id: 'adults', title: 'Dental Implants for Adults', desc: 'Professional, discreet implants designed for busy lifestyles. Straighten your teeth without the traditional braces look.', color: 'sky' }
-];
-
-export const FAQS_HOME = [
-  { q: "How does this service differ from a normal dentist?", a: "We are an independent referral network focusing on Platinum tier providers. We prioritize matching you with clinical experts who handle thousands of cases annually. This ensures you receive the highest standard of specialized care." },
-  { q: "How do I get matched with the right provider?", a: "Our matching service is completely free and takes less than 2 minutes. Simply complete our quick form with your requirements and location, and we'll connect you with vetted Dental Implants specialists in your area. We only work with experienced providers who meet our quality standards." },
-  { q: "Is there a cost for the referral?", a: "Our referral facilitation service is completely free for patients. We help you find the perfect match and arrange your initial consultation at no charge. You only pay the clinic directly if you choose to proceed with treatment." }
-];
-
-export const FAQS_SERVICES = [
-  { q: "How long does treatment usually take?", a: "Treatment duration varies but most adult cases are completed within 6 to 18 months. Lite cases can often be resolved in as little as 3 months. Your specialist will provide a precise digital timeline during your scan." },
-  { q: "Will Dental Implants affect my speech?", a: "Most patients experience a slight lisp for the first few days as the tongue adjusts to the implants. This typically disappears quickly as you get used to wearing them. The implants are ultra-thin to minimize any impact on daily conversation." },
-  { q: "Can I see my results before I start?", a: "Yes, we use advanced 3D 3D treatment planning software to map out your entire smile transformation. You will be able to view a digital animation of your teeth moving into their final position. This happens before you even order your first set of implants." }
-];
-
-export const FAQS_LOCATION = [
-  { q: "How do you vet your local providers?", a: "We only partner with clinics that maintain Platinum or Diamond status from Dental Implants. This signifies they have achieved the highest level of experience and successful case volume. We also monitor patient reviews to ensure consistently high service standards." },
-  { q: "Are the clinics easily accessible?", a: "Our network specifically targets major city centers and high-value towns for maximum convenience. Most partners offer flexible evening or weekend appointments to fit your schedule. We prioritize locations with excellent transport links and modern facilities." },
-  { q: "What if there isn't a provider in my exact town?", a: "If your specific town is not listed, we will match you with the nearest elite hub. implant specialists are worth the short travel as they offer superior technology and clinical outcomes. We ensure the travel time is minimized for your convenience." }
-];
-
-// Services for dental implant treatment types
-export const SERVICES = [
   { id: 'single-tooth', title: 'Single Tooth Implants', desc: 'Replace one missing tooth with a permanent titanium post and custom crown. Most common implant procedure.', color: 'emerald' },
   { id: 'multiple-teeth', title: 'Multiple Teeth Implants', desc: 'Restore several missing teeth with individual implants or implant-supported bridges for superior stability.', color: 'green' },
   { id: 'full-arch', title: 'Full Arch Restoration', desc: 'Replace entire upper or lower arch with All-on-4 or All-on-6 implant solutions. Permanent denture alternative.', color: 'lime' },
@@ -234,21 +194,18 @@ export const SERVICES = [
   { id: 'implant-dentures', title: 'Implant-Retained Dentures', desc: 'Convert removable dentures to implant-supported for 10x stability and confidence. No more slipping.', color: 'emerald' }
 ];
 
-// FAQs for homepage
 export const FAQS_HOME = [
   { q: "How does this service differ from a normal dentist?", a: "We are an independent referral network focusing on verified implant specialists. We prioritize matching you with surgical experts who have placed thousands of implants. This ensures you receive the highest standard of specialized care for your tooth replacement." },
   { q: "How do I get matched with the right specialist?", a: "Our matching service is completely free and takes less than 2 minutes. Simply complete our quick form with your requirements and location, and we'll connect you with vetted dental implant specialists in your area. We only work with experienced providers who meet our rigorous quality standards." },
   { q: "Is there a cost for the referral?", a: "Our referral facilitation service is completely free for patients. We help you find the perfect specialist match and arrange your initial consultation at no charge. You only pay the clinic directly if you choose to proceed with treatment." }
 ];
 
-// FAQs for services pages
 export const FAQS_SERVICES = [
   { q: "How long does the implant process take?", a: "The complete process typically takes 3-6 months from initial placement to final crown. This includes healing time for osseointegration (bone fusion). Some patients qualify for immediate load implants with temporary teeth the same day." },
   { q: "Is the implant procedure painful?", a: "Modern implant surgery is performed under local anaesthetic and is generally no more uncomfortable than a tooth extraction. Most patients report minimal discomfort during and after the procedure. Post-operative pain is typically managed with over-the-counter medication." },
   { q: "Can I see what my results will look like?", a: "Yes, we use advanced 3D imaging and treatment planning software to show you exactly how your implants will be positioned and what your final smile will look like. This digital preview happens during your consultation before any treatment begins." }
 ];
 
-// FAQs for location pages
 export const FAQS_LOCATION = [
   { q: "How do you vet your local specialists?", a: "We only partner with clinics that have verifiable track records of successful implant placements. Specialists must demonstrate advanced training, modern technology (CBCT scans, surgical guides), and consistently positive patient outcomes. We continuously monitor reviews and success rates." },
   { q: "Are the clinics easily accessible?", a: "Our network specifically targets major city centers and well-connected towns for maximum convenience. Most specialists offer flexible scheduling including evenings or weekends. We prioritize locations with excellent transport links and modern, comfortable facilities." },
