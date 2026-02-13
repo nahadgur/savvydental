@@ -1,4 +1,3 @@
-
 'use client';
 
 import React, { useState, useEffect } from 'react';
@@ -46,7 +45,7 @@ const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
       email,
       location,
       page: window.location.href,
-      source: "Website Lead",
+      source: window.location.href,
     };
 
     const res = await fetch(
