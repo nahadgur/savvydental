@@ -98,7 +98,7 @@ export default function ServiceCitiesPage({ params }: { params: { service: strin
               <span className="text-white">{service.title}</span>
             </div>
 
-            <h1 className="text-4xl md:text-7xl font-black text-white leading-tight tracking-tight">
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-white leading-tight tracking-tight px-4">
               {service.title} in{' '}
               <span className="italic text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-green-400">
                 {allCities.length}+ UK Locations
